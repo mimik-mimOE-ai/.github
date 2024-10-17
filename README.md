@@ -1,0 +1,2 @@
+# .github
+mimik AI product
